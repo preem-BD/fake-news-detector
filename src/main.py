@@ -320,6 +320,3 @@ def main():
 # Entry point - run main function when script is executed directly
 if __name__ == "__main__":
     main()
-
-if __name__ == "__main__":
-    main()
