@@ -1,3 +1,9 @@
+# Presentation materials (keep local only)
+PRESENTATION_GUIDE.md
+Group4_FakeNewsDetector_Presentation.pdf
+Group4_FakeNewsDetector_Presentation.html
+PROJECT_FINAL_SUMMARY.md
+
 # Environment variables and API keys
 .env
 *.env
