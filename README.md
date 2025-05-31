@@ -1,5 +1,11 @@
 # Fake News Detector & Article Analyzer
 
+![Python](https://img.shields.io/badge/python-3.13-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Streamlit](https://img.shields.io/badge/streamlit-1.28+-red.svg)
+![AI](https://img.shields.io/badge/AI-Transformers-orange.svg)
+![Database](https://img.shields.io/badge/database-SQLite-lightblue.svg)
+
 **Group 4 — Kai Bleuel, Mustafa Sivgin, César Diaz Murga**  
 Scientific Programming WIN (2025-FS) - ZHAW
 
@@ -39,7 +45,33 @@ pip install -r requirements.txt
 - `colorama` - Terminal text coloring
 - `python-dotenv` - Environment variable management
 
-## 🔧 Setup
+## 🚀 Quick Start
+
+**Want to try it immediately? Use our demo script (no API keys needed):**
+
+```bash
+# 1. Clone and install
+git clone https://github.com/yourusername/fake-news-detector.git
+cd fake-news-detector
+pip install -r requirements.txt
+
+# 2. Run demo with sample data
+python src/demo.py
+```
+
+**For full functionality with real-time data:**
+
+```bash
+# 1. Get free NewsAPI key from https://newsapi.org/
+# 2. Create .env file with your API key
+echo "NEWS_API_KEY=your_key_here" > .env
+
+# 3. Run the applications
+python src/main.py              # Terminal interface
+streamlit run src/streamlit_app.py  # Web interface
+```
+
+## 🔧 Detailed Setup
 
 1. **Clone the repository:**
    ```bash
