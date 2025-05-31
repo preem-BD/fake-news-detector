@@ -164,7 +164,9 @@ See the `notebooks/images/` directory for:
 
 ## 📄 License
 
-This project is created for academic purposes as part of the Scientific Programming WIN course at ZHAW.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Created for academic purposes as part of the Scientific Programming WIN course at ZHAW.
 
 ## 📧 Contact
 
