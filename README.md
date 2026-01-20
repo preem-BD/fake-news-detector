@@ -6,7 +6,6 @@
 ![AI](https://img.shields.io/badge/AI-Transformers-orange.svg)
 ![Database](https://img.shields.io/badge/database-SQLite-lightblue.svg)
 
-**Group 4 — Kai Bleuel, Mustafa Sivgin, César Diaz Murga**  
 Scientific Programming WIN (2025-FS) - ZHAW
 
 ## 🎯 Project Overview
