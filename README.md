@@ -188,11 +188,6 @@ See the `notebooks/images/` directory for:
 - Statistical analysis results
 - Data visualizations
 
-## 🤝 Contributors
-
-- **Kai Bleuel** - Data analysis and statistical implementation
-- **Mustafa Sivgin** - Web API integration and database design  
-- **César Diaz Murga** - LLM integration and web interface
 
 ## 📄 License
 
